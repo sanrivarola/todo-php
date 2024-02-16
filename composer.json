@@ -1,0 +1,15 @@
+{
+    "name": "poo/notas",
+    "autoload": {
+        "psr-4": {
+            "Poo\\Notas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sandra San",
+            "email": "sanrivarola@gmail.com"
+        }
+    ],
+    "require": {}
+}
